@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${austin-o}'s app. I have built this app using terraform. 
+  Welcome to ${PREFIX}'s app. Replace this text with your own. 
   <!-- END -->
   
   </div>
